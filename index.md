@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## punctuationmarks
 
-You can use the [editor on GitHub](https://github.com/punctuationmarks/punctuationmarks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a generalist computer programmer who is interested in all aspects of computer science but am primarily focused on web development and data analysis. I also have a vast experience in other fields, from working as a coffee roaster, crop farmer, bicycle mechanic and messenger, residential contractor and pharmcuetial inventory manager; I like to dive into new projects and industries to learn as much as possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some technologies I've worked in and like
 
-### Markdown
+- Python
+    - Django
+    - Flask
+    - numpy
+    - matplotlib
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- JavaScript    
+    - Vanilla
+    - Node
+    - Express
+    - React
+    - ReactNative
+- R
+    - Tidyverse
+    - Shiny
+- CSS3
+    - Vanilla
+    - Bootstrap
 
-```markdown
-Syntax highlighted code block
+### Some technologies I'm interested in and actively learning
+- RPi with Python and Rust
+- Rust
+- Actix Web
+- D3.js
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/punctuationmarks/punctuationmarks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm also actively taking clients for projects, so if you have a need for a web app, some data cleaned and analyized, or something IoT reach out to me. :)
+<!-- [Phoebx site](https://guides.github.com/features/mastering-markdown/). -->
